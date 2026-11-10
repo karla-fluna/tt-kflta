@@ -1,26 +1,16 @@
-<!---
-
-This file is used to generate your project datasheet. Please fill in the information below and delete any unused
-sections.
-
-You can also include images in this folder and reference them in the markdown. Each image must be less than
-512 kb in size, and the combined size of all images must be less than 1 MB.
--->
-
 ## How it works
 
-Explain how your project works
-Explain how your project works
-Simulacion compuerts
+This project implements a digital logic circuit
+using the inputs and outputs available in the
+Tiny Tapeout interface.
+
+The circuit processes the input signals according
+to its implemented logic function and produces
+the corresponding output.
 
 ## How to test
 
-Explain how to use your project
-Ejecutar - verde
-
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
-Nothing at the moment
-
-
+1. Apply the desired logic levels to the input pins.
+2. Observe the output pins.
+3. Verify that the outputs match the expected
+   truth table of the implemented logic circuit.
